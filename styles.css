@@ -69,8 +69,7 @@ header{
 
 section{
     margin-top: 80px;
-    /* margin-left: 120px;
-    margin-right: 120px; */
+
 }
 
 .main-home{
@@ -90,6 +89,9 @@ section{
     font-weight: 500;
     text-transform: capitalize;
 
+}
+.main-text{
+    margin-left: 125px;
 }
 .main-text h1{
     color: #000;
